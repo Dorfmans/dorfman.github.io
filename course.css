@@ -61,6 +61,8 @@
     left: -2em;
     width: calc(100% + 2em);
   }
+  .portfolio__item {
+    max-width: 280px;
 }
 
 /* General Styles */
