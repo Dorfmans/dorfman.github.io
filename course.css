@@ -62,9 +62,9 @@
     width: calc(100% + 2em);
   }
 }
-  @media (max-width: 600px){
-  .portfolio__item {
-    max-width: 280px;
+  @media (max-width: 600px) {
+    .portfolio__item {
+      max-width: 280px;
   }
 }
 
