@@ -66,17 +66,10 @@
     left: -2em;
     width: calc(100% + 2em);
   }
-<<<<<<< HEAD
 
   .portfolio__item iframe {
     width: 560px;
     height: 315px;
-=======
-}
-  @media (max-width: 600px) {
-    .portfolio__item {
-      max-width: 280px;
->>>>>>> df425045113b5f1232a83d59583904fffa026533
   }
 }
 
