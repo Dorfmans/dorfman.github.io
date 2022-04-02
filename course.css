@@ -306,7 +306,7 @@ header {
 .section__title--services::after {
   content: " ";
   display: block;
-  width: 5em;
+  width: 50%;
   height: 1px;
   margin: 0.5em auto 1em;
   background-color: currentColor;
