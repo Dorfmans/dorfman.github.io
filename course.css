@@ -35,6 +35,11 @@
   }
 }
 
+.portfolio__item iframe {
+  width: 80%;
+  height: 33%;
+}
+
 @media (min-width: 600px) {
   .intro {
     display: grid;
@@ -61,12 +66,13 @@
     left: -2em;
     width: calc(100% + 2em);
   }
-}
-  @media (max-width: 600px){
-  .portfolio__item {
-    max-width: 280px;
+
+  .portfolio__item iframe {
+    width: 560px;
+    height: 315px;
   }
 }
+
 
 /* General Styles */
 
@@ -379,6 +385,7 @@ header {
 .section__title--work {
   font-size: 5em;
 }
+
 
 /* FOOTER */
 
